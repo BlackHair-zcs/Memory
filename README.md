@@ -1,16 +1,6 @@
-# memory
+欢迎来到 简忆
 
-A new Flutter project.
 
-## Getting Started
+简忆 是一款用于记录你的故事的日记app，拥有十分简约的软件风格，用户完全不会被广告等冗余功能所打扰。作者希望以此能够带给用户更好的软件体验。在现代社会中，或许你会有许多烦恼，压力没有地方倾诉。在这里，简忆 会慢慢倾听你的诉说，记录你的故事。
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+简忆 能够记录你生活中的故事，并将它们分类展示。你也可以通过 首页日历 看到自己某一天的故事。由于作者经验不足，可能会有很多不足的地方，欢迎联系作者指出，感谢你的支持☞。
