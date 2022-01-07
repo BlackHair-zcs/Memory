@@ -20,7 +20,7 @@ class _MyPageState extends State<MyPage> {
   final UserRepository _userRepository = UserRepository();
   final Future<SharedPreferences> _pres = SharedPreferences.getInstance();
   final String _protocal = "http://";
-  final String _host = "47.98.175.209:8080";
+  final String _host = "120.26.166.10:8000";
   UserModel? _userInfo;
   bool _isLoading = true;
   bool _httpError = false;

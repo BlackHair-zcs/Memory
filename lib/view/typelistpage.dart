@@ -17,7 +17,7 @@ class TypeListPage extends StatefulWidget {
 
 class _TypeListPageState extends State<TypeListPage> {
   final String _protocal = "http://";
-  final String _host = "47.98.175.209:8080";
+  final String _host = "120.26.166.10:8000";
   final MemoryStore _memoryStore = MemoryStore();
   List _memoryData = [];
   bool _isLoading = true;

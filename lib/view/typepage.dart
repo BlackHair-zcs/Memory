@@ -15,7 +15,7 @@ class _TypePageState extends State<TypePage> {
   final TypeRepository _typeRepository = TypeRepository();
   final APIClient _apiClient = APIClient();
   final String _protocal = "http://";
-  final String _host = "47.98.175.209:8080";
+  final String _host = "120.26.166.10:8000";
   List _typeOfMemory = [];
   bool _isLoading = true;
   bool _httpError = false;

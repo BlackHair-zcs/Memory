@@ -7,7 +7,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class APIClient {
   final String protocal = "http://";
-  final String host = "47.98.175.209:8080";
+  final String host = "120.26.166.10:8000";
   final String signinRouter = "/signin";
   final String signupRouter = "/signup";
   final String usersRouter = "/users";
